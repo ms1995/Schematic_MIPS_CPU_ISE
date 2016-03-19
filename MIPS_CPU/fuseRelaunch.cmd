@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/FPGA/Proj09/MIPS_CPU/CPU_Piano_CPU_Piano_sch_tb_isim_par.exe" -prj "C:/FPGA/Proj09/MIPS_CPU/CPU_Piano_CPU_Piano_sch_tb_par.prj" "work.CPU_Piano_CPU_Piano_sch_tb" 

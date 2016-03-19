@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/FPGA/Proj09/MIPS_CPU/MIPS_CPU_All_MIPS_CPU_All_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="mips_cpu_all_mips_cpu_all_sch_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="group67" type="group">
+      <obj_property name="label">Internal</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/addr_offset" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">addr_offset[31:0]</obj_property>
+         <obj_property name="ObjectShortName">addr_offset[31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/flag_ov" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">flag_ov</obj_property>
+         <obj_property name="ObjectShortName">flag_ov</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/regrdb_addr" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">regrdb_addr[4:0]</obj_property>
+         <obj_property name="ObjectShortName">regrdb_addr[4:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/regrda_addr" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">regrda_addr[4:0]</obj_property>
+         <obj_property name="ObjectShortName">regrda_addr[4:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/regwr" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">regwr</obj_property>
+         <obj_property name="ObjectShortName">regwr</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/regrdb_data" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">regrdb_data[31:0]</obj_property>
+         <obj_property name="ObjectShortName">regrdb_data[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/regwr_data" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">regwr_data[31:0]</obj_property>
+         <obj_property name="ObjectShortName">regwr_data[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/regwr_addr" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">regwr_addr[4:0]</obj_property>
+         <obj_property name="ObjectShortName">regwr_addr[4:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/curr_code" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">curr_code[31:0]</obj_property>
+         <obj_property name="ObjectShortName">curr_code[31:0]</obj_property>
+         <obj_property name="Radix">HEXRADIX</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group34" type="group">
+      <obj_property name="label">Ext_mem</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/mem_ext_addr" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mem_ext_addr[31:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_ext_addr[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/mem_ext_in" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mem_ext_in[31:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_ext_in[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/memwr" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">memwr</obj_property>
+         <obj_property name="ObjectShortName">memwr</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/mem_ext_out" type="array" db_ref_id="1">
+         <obj_property name="ElementShortName">mem_ext_out[31:0]</obj_property>
+         <obj_property name="ObjectShortName">mem_ext_out[31:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/mips_cpu_all_mips_cpu_all_sch_tb/io_ready" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">io_ready</obj_property>
+         <obj_property name="ObjectShortName">io_ready</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>

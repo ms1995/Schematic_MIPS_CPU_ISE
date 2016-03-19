@@ -1,0 +1,1 @@
+sch2hdl,-sympath,C:/FPGA/Proj09/MIPS_CPU/ipcore_dir,-intstyle,ise,-family,artix7,-flat,-suppress,-vhdl,C:/FPGA/Proj09/MIPS_CPU/CPU_Piano.vhf,-w,C:/FPGA/Proj09/MIPS_CPU/CPU_Piano.sch

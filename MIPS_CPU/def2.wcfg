@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/FPGA/Proj09/MIPS_CPU/CPU_Testor_CPU_Testor_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="cpu_testor_cpu_testor_sch_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/mem_ext_wr_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mem_ext_wr_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_ext_wr_data[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/ram_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ram_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/clk_quarter" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_quarter</obj_property>
+      <obj_property name="ObjectShortName">clk_quarter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/io_prt" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">io_prt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">io_prt[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/ram_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ram_we</obj_property>
+      <obj_property name="ObjectShortName">ram_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/io_ready" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">io_ready</obj_property>
+      <obj_property name="ObjectShortName">io_ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/ram_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ram_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cpu_testor_cpu_testor_sch_tb/io_ready_go" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">io_ready_go</obj_property>
+      <obj_property name="ObjectShortName">io_ready_go</obj_property>
+   </wvobject>
+</wave_config>

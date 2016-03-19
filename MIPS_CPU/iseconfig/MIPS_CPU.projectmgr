@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="MIPS_CPU" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU C:|FPGA|Proj09|MIPS_CPU|ALU.sch</ClosedNode>
+         <ClosedNode>/CPU_LED_Driver C:|FPGA|Proj09|MIPS_CPU|CPU_LED_Driver.sch/XLXI_1 - MIPS_CPU_All</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_1 - ALU</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_121 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_122 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_21 - shiftLR</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_23 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_36 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_37 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_49 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_5 - Reg_Stack32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_53 - expansion16</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_60 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_61 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_62 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_64 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_74 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_87 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_9 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_1 - MIPS_CPU_All/XLXI_94 - Inst_Ctl</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32/XLXI_1 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32/XLXI_2 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32/XLXI_3 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32/XLXI_4 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32/XLXI_5 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch/XLXI_31 - mux32/XLXI_6 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_1 - ALU</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_21 - shiftLR</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_23 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_36 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_37 - mux5b</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_49 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_5 - Reg_Stack32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_53 - expansion16</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_60 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_61 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_62 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_64 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_74 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_83 - buf_24</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_87 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_9 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All/XLXI_94 - Inst_Ctl</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_11 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_7 - mux32</ClosedNode>
+         <ClosedNode>/Inst_Ctl C:|FPGA|Proj09|MIPS_CPU|Inst_Ctl.sch</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_1 - ALU</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_21 - shiftLR</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_23 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_3 - shift</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_36 - mux5b</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_37 - mux5b</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_49 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_5 - Reg_Stack32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_53 - expansion16</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_60 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_61 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_62 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_64 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_74 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_83 - buf_24</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_87 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_9 - mux32</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch/XLXI_94 - Inst_Ctl</ClosedNode>
+         <ClosedNode>/Reg_Stack32 C:|FPGA|Proj09|MIPS_CPU|Reg_Stack32.sch</ClosedNode>
+         <ClosedNode>/and2_32 C:|FPGA|Proj09|MIPS_CPU|and2_32.sch</ClosedNode>
+         <ClosedNode>/buf_24 C:|FPGA|Proj09|MIPS_CPU|buf_24.sch</ClosedNode>
+         <ClosedNode>/expansion16 C:|FPGA|Proj09|MIPS_CPU|expansion16.sch</ClosedNode>
+         <ClosedNode>/expantion26 C:|FPGA|Proj09|MIPS_CPU|expantion26.sch</ClosedNode>
+         <ClosedNode>/mux32_4_1 C:|FPGA|Proj09|MIPS_CPU|mux32_4_1.sch</ClosedNode>
+         <ClosedNode>/mux32_8_1 C:|FPGA|Proj09|MIPS_CPU|mux32_8_1.sch</ClosedNode>
+         <ClosedNode>/nor2_32bits C:|FPGA|Proj09|MIPS_CPU|nor2_32bits.sch</ClosedNode>
+         <ClosedNode>/or2_32bits C:|FPGA|Proj09|MIPS_CPU|or2_32bits.sch</ClosedNode>
+         <ClosedNode>/shiftLR C:|FPGA|Proj09|MIPS_CPU|shiftLR.sch</ClosedNode>
+         <ClosedNode>/xor2_32bits C:|FPGA|Proj09|MIPS_CPU|xor2_32bits.sch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000149000000020000000000000000000000000200000064ffffffff000000810000000300000002000001490000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>XLXI_1 - MIPS_CPU_All (C:/FPGA/Proj09/MIPS_CPU/MIPS_CPU_All.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000117000000010000000100000000000000000000000064ffffffff000000810000000000000001000001170000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >30</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002a2000000040101000100000000000000000000000064ffffffff000000810000000000000004000000a800000001000000000000004b0000000100000000000000780000000100000000000001370000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>shift_1bit.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000121000000010001000100000000000000000000000064ffffffff000000810000000000000001000001210000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000106000000010000000100000000000000000000000064ffffffff000000810000000000000001000001060000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff000000000000000200000169000000e801000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU C:|FPGA|Proj09|MIPS_CPU|ALU.sch</ClosedNode>
+         <ClosedNode>/CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_LED_Driver.vhd</ClosedNode>
+         <ClosedNode>/CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_LED_Driver.vhd/UUT - CPU_LED_Driver</ClosedNode>
+         <ClosedNode>/CPU_Piano C:|FPGA|Proj09|MIPS_CPU|CPU_Piano.sch</ClosedNode>
+         <ClosedNode>/CPU_Piano_CPU_Piano_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_Piano.vhd</ClosedNode>
+         <ClosedNode>/CPU_Piano_CPU_Piano_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_Piano.vhd/UUT - CPU_Piano</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch</ClosedNode>
+         <ClosedNode>/CPU_Testor C:|FPGA|Proj09|MIPS_CPU|CPU_Testor.sch/XLXI_1 - MIPS_CPU_All</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd/UUT - CPU_Testor/XLXI_1 - MIPS_CPU_All</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd/UUT - CPU_Testor/XLXI_11 - mux32</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd/UUT - CPU_Testor/XLXI_7 - mux32</ClosedNode>
+         <ClosedNode>/Inst_Ctl_Inst_Ctl_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_Inst_Ctl.vhd</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All C:|FPGA|Proj09|MIPS_CPU|MIPS_CPU_All.sch</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All_MIPS_CPU_All_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_MIPS_CPU.vhd/UUT - MIPS_CPU_All</ClosedNode>
+         <ClosedNode>/Reg_Stack32 C:|FPGA|Proj09|MIPS_CPU|Reg_Stack32.sch</ClosedNode>
+         <ClosedNode>/buf_24 C:|FPGA|Proj09|MIPS_CPU|buf_24.sch</ClosedNode>
+         <ClosedNode>/expansion16 C:|FPGA|Proj09|MIPS_CPU|expansion16.sch</ClosedNode>
+         <ClosedNode>/expantion26 C:|FPGA|Proj09|MIPS_CPU|expantion26.sch</ClosedNode>
+         <ClosedNode>/mux32_4_1 C:|FPGA|Proj09|MIPS_CPU|mux32_4_1.sch</ClosedNode>
+         <ClosedNode>/shiftLR C:|FPGA|Proj09|MIPS_CPU|shiftLR.sch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000200000000020000000000000000000000000200000064ffffffff000000810000000300000002000002000000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_LED_Driver.vhd</ClosedNode>
+         <ClosedNode>/CPU_Piano_CPU_Piano_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_Piano.vhd</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd</ClosedNode>
+         <ClosedNode>/Inst_Ctl_Inst_Ctl_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_Inst_Ctl.vhd</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All_MIPS_CPU_All_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_MIPS_CPU.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>CPU_Piano_CPU_Piano_sch_tb - behavioral (C:/FPGA/Proj09/MIPS_CPU/tb_CPU_Piano.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c8000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c80000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>CPU_Piano_CPU_Piano_sch_tb - behavioral (C:/FPGA/Proj09/MIPS_CPU/tb_CPU_Piano.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostRouteSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Post-Place &amp; Route Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Post-Place &amp; Route Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000117000000010000000100000000000000000000000064ffffffff000000810000000000000001000001170000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_LED_Driver.vhd</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd</ClosedNode>
+         <ClosedNode>/Inst_Ctl_Inst_Ctl_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_Inst_Ctl.vhd</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All_MIPS_CPU_All_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_MIPS_CPU.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral (C:/FPGA/Proj09/MIPS_CPU/tb_CPU_LED_Driver.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000200000000020000000000000000000000000200000064ffffffff000000810000000300000002000002000000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral (C:/FPGA/Proj09/MIPS_CPU/tb_CPU_LED_Driver.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostMapSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_CPU_LED_Driver.vhd</ClosedNode>
+         <ClosedNode>/CPU_Testor_CPU_Testor_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_All.vhd</ClosedNode>
+         <ClosedNode>/Inst_Ctl_Inst_Ctl_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_Inst_Ctl.vhd</ClosedNode>
+         <ClosedNode>/MIPS_CPU_All_MIPS_CPU_All_sch_tb - behavioral C:|FPGA|Proj09|MIPS_CPU|tb_MIPS_CPU.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral (C:/FPGA/Proj09/MIPS_CPU/tb_CPU_LED_Driver.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000200000000020000000000000000000000000200000064ffffffff000000810000000300000002000002000000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>CPU_LED_Driver_CPU_LED_Driver_sch_tb - behavioral (C:/FPGA/Proj09/MIPS_CPU/tb_CPU_LED_Driver.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostMapSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostMapSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000119000000010000000100000000000000000000000064ffffffff000000810000000000000001000001190000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000117000000010000000100000000000000000000000064ffffffff000000810000000000000001000001170000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

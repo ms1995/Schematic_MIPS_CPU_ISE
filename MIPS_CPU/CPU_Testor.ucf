@@ -1,0 +1,20 @@
+# PlanAhead Generated physical constraints 
+
+NET "I_PORT[7]" LOC = P56;
+NET "I_PORT[6]" LOC = P57;
+NET "I_PORT[5]" LOC = P58;
+NET "I_PORT[4]" LOC = P59;
+NET "I_PORT[3]" LOC = P61;
+NET "I_PORT[2]" LOC = P62;
+NET "I_PORT[1]" LOC = P66;
+NET "I_PORT[0]" LOC = P67;
+NET "CLK" LOC = P55;
+NET "RST" LOC = P80;
+NET "CLK_26xx" LOC = P92;
+NET "O_PORT[6]" LOC = P88;
+NET "O_PORT[5]" LOC = P87;
+NET "O_PORT[4]" LOC = P85;
+NET "O_PORT[3]" LOC = P84;
+NET "O_PORT[2]" LOC = P83;
+NET "O_PORT[0]" LOC = P81;
+NET "O_PORT[1]" LOC = P82;

@@ -1,0 +1,3 @@
+MODULE expantion26
+	SUBMODULE mux32
+		INSTANCE XLXI_20
